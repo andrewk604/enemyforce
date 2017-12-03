@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Jungle Way",
-    "currentPage": "enemyforce.html",
+    "currentPage": "JungleWay.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 56,
     "versionPublish": "4.5.2",
@@ -12,7 +12,8 @@
     },
     "favicon": "",
     "noImageResize": "",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "JungleWay.html": {
